@@ -1,0 +1,36 @@
+{
+  "creator": {
+    "name": "Tu Nombre",
+    "headline": "Tu profesión o especialidad",
+    "audience": "tu público objetivo",
+    "tone": "profesional y cercano"
+  },
+  "series": {
+    "title": "30 días de herramientas para tu carrera",
+    "totalDays": 30,
+    "language": "es"
+  },
+  "content": {
+    "minChars": 900,
+    "maxChars": 1800,
+    "emojisMin": 5,
+    "emojisMax": 8,
+    "resourcesMin": 2,
+    "resourcesMax": 3,
+    "resourcesLanguage": "es"
+  },
+  "hashtags": {
+    "base": ["#Carrera", "#Aprendizaje", "#DesarrolloProfesional"]
+  },
+  "publish": {
+    "mode": "manual",
+    "offsetHours": 3
+  },
+  "linkedin": {
+    "authorUrn": "urn:li:person:TU_ID",
+    "account": "default"
+  },
+  "schedule": {
+    "generateAt": "09:00"
+  }
+}

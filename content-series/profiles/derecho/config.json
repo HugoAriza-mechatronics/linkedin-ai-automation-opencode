@@ -1,0 +1,36 @@
+{
+  "creator": {
+    "name": "Tu Nombre",
+    "headline": "Abogado(a) especializado(a) en derecho laboral",
+    "audience": "profesionales de RR. HH., colegas y reclutadores",
+    "tone": "formal, claro y cercano"
+  },
+  "series": {
+    "title": "30 días de legal tech y práctica legal",
+    "totalDays": 30,
+    "language": "es"
+  },
+  "content": {
+    "minChars": 900,
+    "maxChars": 1800,
+    "emojisMin": 5,
+    "emojisMax": 8,
+    "resourcesMin": 2,
+    "resourcesMax": 3,
+    "resourcesLanguage": "es"
+  },
+  "hashtags": {
+    "base": ["#LegalTech", "#Derecho", "#Abogacía"]
+  },
+  "publish": {
+    "mode": "manual",
+    "offsetHours": 3
+  },
+  "linkedin": {
+    "authorUrn": "urn:li:person:TU_ID",
+    "account": "default"
+  },
+  "schedule": {
+    "generateAt": "09:00"
+  }
+}

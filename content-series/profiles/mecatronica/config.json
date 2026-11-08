@@ -1,0 +1,36 @@
+{
+  "creator": {
+    "name": "Tu Nombre",
+    "headline": "Ingeniero mecatrónico",
+    "audience": "ingenieros, estudiantes y reclutadores del sector industrial",
+    "tone": "técnico, profesional y cercano"
+  },
+  "series": {
+    "title": "Herramientas útiles en ingeniería mecatrónica",
+    "totalDays": 30,
+    "language": "es"
+  },
+  "content": {
+    "minChars": 900,
+    "maxChars": 1800,
+    "emojisMin": 5,
+    "emojisMax": 8,
+    "resourcesMin": 2,
+    "resourcesMax": 3,
+    "resourcesLanguage": "en"
+  },
+  "hashtags": {
+    "base": ["#Mechatronics", "#Engineering", "#Automation"]
+  },
+  "publish": {
+    "mode": "manual",
+    "offsetHours": 3
+  },
+  "linkedin": {
+    "authorUrn": "urn:li:person:TU_ID",
+    "account": "default"
+  },
+  "schedule": {
+    "generateAt": "09:00"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "name": "content-series",
+      "version": "1",
+      "files": [
+        "SKILL.md",
+        "scripts/run-dia.ps1",
+        "scripts/publicar-dia.ps1",
+        "scripts/setup-windows.ps1",
+        "references/instrucciones-dia.md",
+        "references/instrucciones-publicar.md",
+        "references/config-reference.md",
+        "profiles/_template/config.json",
+        "profiles/_template/temario.md",
+        "profiles/mecatronica/config.json",
+        "profiles/mecatronica/temario.md",
+        "profiles/derecho/config.json",
+        "profiles/derecho/temario.md",
+        "examples/dia-01-ejemplo.md"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "skills": [
+    "https://hugoariza-mechatronics.github.io/linkedin-ai-automation-opencode/"
+  ],
+  "commands": {
+    "serie": {
+      "description": "Crea una serie de contenido para LinkedIn",
+      "template": "Carga la skill content-series y ejecuta su onboarding completo."
+    }
+  }
+}
