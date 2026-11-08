@@ -61,9 +61,13 @@ Copy-Item -Recurse .\content-series ".\.opencode\skills\content-series"
 Copia el comando:
 
 ```powershell
+# Ejecuta esto desde la carpeta de tu proyecto, con el repo clonado al lado
+$repo = ".\linkedin-ai-automation-opencode"
 New-Item -ItemType Directory -Force .\.opencode\commands | Out-Null
-Copy-Item .\.opencode\commands\serie.md .\.opencode\commands\serie.md
+Copy-Item -Path "$repo\.opencode\commands\serie.md" -Destination .\.opencode\commands\serie.md
 ```
+
+> Si trabajas directamente dentro de la carpeta clonada, el comando ya está en `.opencode/commands/serie.md` y no necesitas copiarlo.
 
 Escribe `/serie`.
 
