@@ -1,0 +1,14 @@
+# Contenido generado por el usuario
+contenido/config.json
+contenido/pendiente.json
+contenido/posts/
+
+# Automatización local
+automatizacion/logs/
+automatizacion/prompt-actual.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
